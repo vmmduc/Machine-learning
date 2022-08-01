@@ -1,0 +1,9 @@
+-- File tham so chay GA--
+--Cac tham so So the he + Kich thuoc quan the + So gen + Chieu dai gen --
+5000 200 2 16 
+--Xac suat lai ghep + Xac suat dot bien
+0.75 0.05 
+--Can duoi can tren cua cac bien muc tieu x1
+2 5 
+--Can can tren cac bien muc tieu x2
+0 4
